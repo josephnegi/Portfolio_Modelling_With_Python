@@ -10,7 +10,7 @@ This project demonstrates portfolio modelling for historical returns using the C
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - pandas
 - numpy
 - yfinance
