@@ -41,7 +41,7 @@ This project demonstrates portfolio modelling for historical returns using the C
 ## Example
 
 Below is an example of how to enter data for three positions in the portfolio:
-```python
+```
 Enter data for position no. 1:
 AAPL 50 150 1
 Enter data for position no. 2:
